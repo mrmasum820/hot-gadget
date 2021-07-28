@@ -1,0 +1,12 @@
+
+.card-item {
+    padding: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+    border: 0;
+    border-radius: 10px;
+}
+.hot-btn {
+    background-color: #000;
+    color: white;
+    margin-bottom: 10px;
+}
